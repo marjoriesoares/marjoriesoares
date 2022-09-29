@@ -9,9 +9,9 @@
 <p align="center">
 🔠 Interested in Computational Linguistics and Data science  
 <p align="center">
-👩🏻‍💻 Currently learning Python and functional QA  
+👩🏻‍💻 Currently learning Python  
 <p align="center">
-⏭️ Next: SQL and Azure certification  
+⏭️ Next: SQL and Automation  
 <p align="center">
 🗣️ Languages: Español 🇺🇾, English 🇺🇸, Português 🇧🇷 and Deutsch 🇩🇪
 
